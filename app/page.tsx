@@ -59,7 +59,7 @@ export default function Page() {
   }, [products, selected, searchText])
 
   return (
-      <div className="flex flex-col bg-[#a5c6f3] max-w-svw items-center  min-h-svh pt-[8vh] max-h-svh overflow-hidden">
+      <div className="flex flex-col bg-[#a5c6f3] max-w-svw items-center  min-h-svh md:pt-24 pt-12 max-h-svh overflow-hidden">
         <div className="flex flex-col items-center overflow-hidden p-2">
           <div className="flex flex-col items-center">
             <div className="w-full flex flex-row">
@@ -83,7 +83,7 @@ export default function Page() {
             }
           </div>
 
-          <div className="flex flex-row gap-2 ml-auto mr-auto mt-[6vh] p-4 flex-none">
+          <div className="flex flex-row gap-2 ml-auto mr-auto md:mt-18 mt-0 p-4 flex-none">
               <img 
                 src="tiktok.svg" 
                 className="size-7 cursor-pointer" 
