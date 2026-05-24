@@ -20,7 +20,7 @@ function Tag({title, color, onSelected, isSelected}: {title: string; color: keyo
 
 function Product({name, link, website, imgSrc} : { name: string; link: string; website: string; imgSrc: string;}) {
   return (
-    <div className="cursor-pointer rounded-lg bg-white mt-2 flex flex-row p-2 w-full items-center justify-start hover:bg-gray-100 overflow-hidden min-h-22 h-22 "
+    <div className="cursor-pointer rounded-lg bg-white mt-2 flex flex-row p-2 w-full items-center justify-start hover:bg-gray-100 overflow-hidden min-h-22 h-22"
      onClick={() => 
       window.open(link, "_blank")
     }>
@@ -59,7 +59,7 @@ export default function Page() {
   }, [products, selected, searchText])
 
   return (
-      <div className="flex flex-col bg-[#a5c6f3] max-w-svw items-center  min-h-svh pt-24 max-h-svh overflow-hidden">
+      <div className="flex flex-col bg-[#a5c6f3] max-w-svw items-center  min-h-svh pt-[8vh] max-h-svh overflow-hidden">
         <div className="flex flex-col items-center overflow-hidden p-2">
           <div className="flex flex-col items-center">
             <div className="w-full flex flex-row">
@@ -83,7 +83,7 @@ export default function Page() {
             }
           </div>
 
-          <div className="flex flex-row gap-2 ml-auto mr-auto mt-18 p-4 flex-none">
+          <div className="flex flex-row gap-2 ml-auto mr-auto mt-[6vh] p-4 flex-none">
               <img 
                 src="tiktok.svg" 
                 className="size-7 cursor-pointer" 
