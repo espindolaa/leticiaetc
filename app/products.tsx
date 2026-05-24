@@ -1,4 +1,4 @@
-import { TagTitle } from "../tags";
+import { TagTitle } from "./tags";
 
 export const products: {name: string; link: string; imgSrc: string; tag: TagTitle; website: string}[] = [
   {
