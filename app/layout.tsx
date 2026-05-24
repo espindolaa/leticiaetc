@@ -7,6 +7,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
+      <title>leticia, etc: vitrine</title>
       <body>{children}</body>
     </html>
   )
