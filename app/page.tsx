@@ -65,6 +65,7 @@ export default function Page() {
             <div className="w-full flex flex-row">
               <img src="leticiaetc.png" className="w-48" />
             </div>
+            <span className="text-white ml-0 mr-auto">esses links <b>não</b> são afiliados :)</span>
             <input 
               type="text" 
               placeholder="Pesquise aqui"
