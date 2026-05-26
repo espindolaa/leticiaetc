@@ -26,9 +26,6 @@ importers:
       react-dom:
         specifier: 19.2.6
         version: 19.2.6(react@19.2.6)
-      react-gtm-module:
-        specifier: 2.0.11
-        version: 2.0.11
       tailwindcss:
         specifier: 4.3.0
         version: 4.3.0
@@ -540,9 +537,6 @@ packages:
     peerDependencies:
       react: ^19.2.6
 
-  react-gtm-module@2.0.11:
-    resolution: {integrity: sha512-8gyj4TTxeP7eEyc2QKawEuQoAZdjKvMY4pgWfycGmqGByhs17fR+zEBs0JUDq4US/l+vbTl+6zvUIx27iDo/Vw==}
-
   react@19.2.6:
     resolution: {integrity: sha512-sfWGGfavi0xr8Pg0sVsyHMAOziVYKgPLNrS7ig+ivMNb3wbCBw3KxtflsGBAwD3gYQlE/AEZsTLgToRrSCjb0Q==}
     engines: {node: '>=0.10.0'}
@@ -951,8 +945,6 @@ snapshots:
     dependencies:
       react: 19.2.6
       scheduler: 0.27.0
-
-  react-gtm-module@2.0.11: {}
 
   react@19.2.6: {}
 
