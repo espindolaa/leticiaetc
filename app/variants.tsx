@@ -5,6 +5,7 @@ export const bgVariants = {
   rose: "bg-rose-200",
   amber: "bg-amber-200",
   emerald: "bg-emerald-200",
+  cyan: "bg-cyan-200",
 };
 
 export const selectedBgVariants = {
@@ -14,6 +15,7 @@ export const selectedBgVariants = {
   rose: "bg-rose-300 border border-rose-400",
   amber: "bg-amber-300 border border-amber-400",
   emerald: "bg-emerald-300 border border-emerald-400",
+  cyan: "bg-cyan-300 border border-cyan-400",
 };
 
 export const textVariants = {
@@ -23,4 +25,5 @@ export const textVariants = {
   rose: "text-pink-900",
   amber: "text-amber-900",
   emerald: "text-emerald-900",
+  cyan: "text-cyan-900",
 };

@@ -1,6 +1,6 @@
 import { bgVariants } from "./variants";
 
-export type TagTitle = "Todos" | "Viagem" | "Bolsas" | "Tech" | "Organização" | "Higiene"
+export type TagTitle = "Todos" | "Viagem" | "Bolsas" | "Tech" | "Organização" | "Higiene" | "Acessórios"
 
 export const tags: { title: TagTitle; color: keyof typeof bgVariants }[] = [
   {
@@ -20,11 +20,15 @@ export const tags: { title: TagTitle; color: keyof typeof bgVariants }[] = [
     color: "rose"
   },
   {
-    title: "Organização",
-    color: "amber"
-  },
-  {
     title: "Higiene",
     color: "emerald"
+  },
+  {
+    title: "Acessórios",
+    color: "cyan"
+  },
+  {
+    title: "Organização",
+    color: "amber"
   },
 ];

@@ -15,16 +15,16 @@ export const products: {name: string; link: string; imgSrc: string; tag: TagTitl
     tag:"Viagem",
     website:"Amazon internacional"
   },
-  {
-    name:"Kit costura Fiskars",
-    link:"https://www.amazon.com.br/dp/B09HR38V1T?ref=cm_sw_r_cp_ud_dp_K4AC4EFQBM2EW0110B5K_2&social_share=cm_sw_r_cp_ud_dp_K4AC4EFQBM2EW0110B5K_2",
-    imgSrc:"https://m.media-amazon.com/images/I/717Sjez3aLL._AC_SL1500_.jpg",
-    tag:"Viagem",
-    website:"Amazon"
-  },
+  // {
+  //   name:"Kit costura Fiskars",
+  //   link:"https://www.amazon.com.br/dp/B09HR38V1T?ref=cm_sw_r_cp_ud_dp_K4AC4EFQBM2EW0110B5K_2&social_share=cm_sw_r_cp_ud_dp_K4AC4EFQBM2EW0110B5K_2",
+  //   imgSrc:"https://m.media-amazon.com/images/I/717Sjez3aLL._AC_SL1500_.jpg",
+  //   tag:"Viagem",
+  //   website:"Amazon"
+  // },
   {
     name:"Tesoura dobrável Fiskars",
-    link:"https://www.amazon.com.br/dp/B0C8BSNJPL?ref=cm_sw_r_cp_ud_dp_H926VGD5K0MA67HJXTS8&social_share=cm_sw_r_cp_ud_dp_H926VGD5K0MA67HJXTS8&th=1",
+    link:"https://amzn.to/4wLW1ut",
     imgSrc:"https://m.media-amazon.com/images/I/71W-C3s68YL._AC_SL1500_.jpg",
     tag:"Viagem",
     website:"Amazon"
@@ -45,28 +45,28 @@ export const products: {name: string; link: string; imgSrc: string; tag: TagTitl
   },
   {
     name:"Mala cloud carry on Baggu",
-    link:"https://www.amazon.com.br/dp/B0CYF2QRHB?ref=cm_sw_r_cp_ud_dp_B875DYHXHTD6CN97K3SK&social_share=cm_sw_r_cp_ud_dp_B875DYHXHTD6CN97K3SK",
+    link:"https://amzn.to/4f9Z9Kw",
     imgSrc:"https://m.media-amazon.com/images/I/61Xi+F7+qRL._AC_SY741_.jpg",
     tag:"Bolsas",
     website:"Amazon"
   },
   {
     name:"Bolsa bowler Baggu",
-    link:"https://www.amazon.com.br/dp/B0FMBW3TTD?_encoding=UTF8&ref=cm_sw_r_cp_ud_dp_VGR726ZF94DNKJ1TX41H&social_share=cm_sw_r_cp_ud_dp_VGR726ZF94DNKJ1TX41H&th=1",
+    link:"https://amzn.to/4uBNAR8",
     imgSrc:"https://m.media-amazon.com/images/I/71-EUGl0ARL._AC_SX679_.jpg",
     tag:"Bolsas",
     website:"Amazon"
   },
   {
     name:"Kit necessaires Baggu",
-    link:"https://www.amazon.com.br/dp/B0FMBP284H?ref=cm_sw_r_cp_ud_dp_TH723202PMV86HTAW124&social_share=cm_sw_r_cp_ud_dp_TH723202PMV86HTAW124",
+    link:"https://amzn.to/4e9VA4X",
     imgSrc:"https://m.media-amazon.com/images/I/71khUCwVq6L._AC_SL1500_.jpg",
     tag:"Bolsas",
     website:"Amazon"
   },
   {
     name:"Ecobag pequena Baggu",
-    link:"https://www.amazon.com.br/dp/B0CW2FFCJY?ref=cm_sw_r_cp_ud_dp_BPWZF1S5Y7RDPQWR1Z18&social_share=cm_sw_r_cp_ud_dp_BPWZF1S5Y7RDPQWR1Z18",
+    link:"https://amzn.to/49oJJ1j",
     imgSrc:"https://m.media-amazon.com/images/I/81kgY11nNEL._AC_SX679_.jpg",
     tag:"Bolsas",
     website:"Amazon"
@@ -80,14 +80,14 @@ export const products: {name: string; link: string; imgSrc: string; tag: TagTitl
   },
   {
     name:"Fone de ouvido WH-1000XM6 Sony",
-    link:"https://www.amazon.com.br/dp/B0F3PQHWTZ?ref=cm_sw_r_cp_ud_dp_67MS617Q8PBQ1Z6G686Q&social_share=cm_sw_r_cp_ud_dp_67MS617Q8PBQ1Z6G686Q",
+    link:"https://amzn.to/4wMFgj3",
     imgSrc:"https://m.media-amazon.com/images/I/61ddahpESML._AC_SL1500_.jpg",
     tag:"Tech",
     website:"Amazon"
   },
   {
     name:"Ventilador portátil dobrável",
-    link:"https://www.amazon.com.br/dp/B0CTB13CDQ?ref=cm_sw_r_cp_ud_dp_7HGJ26BZDXKAGJ2MPRZQ&social_share=cm_sw_r_cp_ud_dp_7HGJ26BZDXKAGJ2MPRZQ&th=1",
+    link:"https://amzn.to/49STrJk",
     imgSrc:"https://m.media-amazon.com/images/I/611rwOao-iL._AC_SL1500_.jpg",
     tag:"Tech",
     website:"Amazon"
@@ -101,9 +101,58 @@ export const products: {name: string; link: string; imgSrc: string; tag: TagTitl
   },
   {
     name:"Pipizito funil urinário descartável",
-    link:"https://www.amazon.com.br/dp/B09XNZ54YJ?ref=cm_sw_r_cso_cp_apin_dp_DRGESFHG3BFPCRDAHZXM&social_share=cm_sw_r_cso_cp_apin_dp_DRGESFHG3BFPCRDAHZXM",
+    link:"https://amzn.to/3Q3TyuX",
     imgSrc:"https://m.media-amazon.com/images/I/51xHle3hDuL._AC_SL1000_.jpg",
     tag:"Higiene",
+    website:"Amazon"
+  },
+  {
+    name:"Caneta tira manchas Tide To Go",
+    link:"https://amzn.to/4nRfnu1",
+    imgSrc:"https://m.media-amazon.com/images/I/81FlxmoC4BL._AC_SL1500_.jpg",
+    tag:"Higiene",
+    website:"Amazon"
+  },
+  {
+    name:"Listerine em folhas",
+    link:"https://amzn.to/4wQujwN",
+    imgSrc:"https://m.media-amazon.com/images/I/711DwRCax+L._AC_SL1500_.jpg",
+    tag:"Higiene",
+    website:"Amazon"
+  },
+  {
+    name:"Câmera digital FZ55 Kodak",
+    link:"https://amzn.to/4dPrO5e",
+    imgSrc:"https://m.media-amazon.com/images/I/81swjZCbdiL._AC_SL1500_.jpg",
+    tag:"Tech",
+    website:"Amazon"
+  },
+  {
+    name:"Gancho para bolsa Clipa",
+    link:"https://amzn.to/42WKhYC",
+    imgSrc:"https://m.media-amazon.com/images/I/71fiR9I0dpL._AC_SL1500_.jpg",
+    tag:"Bolsas",
+    website:"Amazon"
+  },
+  {
+    name:"Adaptador de cartão SB Anker",
+    link:"https://amzn.to/4tYhFsO",
+    imgSrc:"https://m.media-amazon.com/images/I/71YL0TM1erL._AC_SL1500_.jpg",
+    tag:"Tech",
+    website:"Amazon"
+  },
+  {
+    name:"Pin Snoopy Icebrg",
+    link:"https://www.icebrg.com.br/loja/busca.php?loja=731014&palavra_busca=snoopy",
+    imgSrc:"https://images.tcdn.com.br/img/img_prod/731014/pin_icebrg_astronauta_snoopy_1_20250902162535_d3db9acc1ce4.jpg",
+    tag:"Acessórios",
+    website:"Icebrg"
+  },
+  {
+    name:"Óculos de sol Zaya RayBan",
+    link:"https://amzn.to/3Q3tEHG",
+    imgSrc:"https://m.media-amazon.com/images/I/51K2i1nunIL._AC_SX695_.jpg",
+    tag:"Acessórios",
     website:"Amazon"
   },
 ]
