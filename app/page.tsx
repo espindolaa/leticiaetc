@@ -24,7 +24,7 @@ function Product({name, link, website, imgSrc} : { name: string; link: string; w
      onClick={() => 
       window.open(link, "_blank")
     }>
-      <img src={imgSrc} className="h-18 w-12 rounded"/>
+      <img src={imgSrc} className="size-18 object-contain rounded"/>
       <div className="text-left ml-2">
         <h1 className="w-full text-left overflow-hidden text-wrap">{name}</h1>
         <span className="mb-0 mt-auto text-gray-400">{website}</span>
