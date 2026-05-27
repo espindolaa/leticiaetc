@@ -162,4 +162,11 @@ export const products: {name: string; link: string; imgSrc: string; tag: TagTitl
     tag:"Tech",
     website:"Amazon"
   },
+  {
+    name:"Suporte pra celular magsafe",
+    link:"https://amzn.to/3PNlEubU",
+    imgSrc:"https://m.media-amazon.com/images/I/61uctLBHSPL._AC_SL1500_.jpg",
+    tag:"Tech",
+    website:"Amazon"
+  },
 ]
