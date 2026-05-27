@@ -155,4 +155,11 @@ export const products: {name: string; link: string; imgSrc: string; tag: TagTitl
     tag:"Acessórios",
     website:"Amazon"
   },
+  {
+    name:"Adaptador de tomada universal preto",
+    link:"https://amzn.to/3S5vYOU",
+    imgSrc:"https://m.media-amazon.com/images/I/61uJEBtHvUL._AC_SL1500_.jpg",
+    tag:"Tech",
+    website:"Amazon"
+  },
 ]
