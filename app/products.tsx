@@ -162,4 +162,11 @@ export const products: {name: string; link: string; imgSrc: string; tag: TagTitl
     tag:"Tech",
     website:"Amazon"
   },
+  {
+    name:"Escova de cabelo mini Tangle Teezer",
+    link:"https://amzn.to/4vgb6D6",
+    imgSrc:"https://m.media-amazon.com/images/I/71yUEp6uysL._AC_SL1500_.jpg",
+    tag:"Viagem",
+    website:"Amazon"
+  },
 ]
