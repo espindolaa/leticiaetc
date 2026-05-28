@@ -169,4 +169,25 @@ export const products: {name: string; link: string; imgSrc: string; tag: TagTitl
     tag:"Viagem",
     website:"Amazon"
   },
+  {
+    name:"Kit com 3 necessaires transparentes",
+    link:"https://amzn.to/49qItdX",
+    imgSrc:"https://m.media-amazon.com/images/I/617mkxvOdiL._AC_SL1500_.jpg",
+    tag:"Viagem",
+    website:"Amazon"
+  },
+  {
+    name:"Organizador de eletrônicos Tomtoc",
+    link:"https://amzn.to/4dVGVtP",
+    imgSrc:"https://m.media-amazon.com/images/I/815cTnwmM2L._AC_SL1500_.jpg",
+    tag:"Viagem",
+    website:"Amazon"
+  },
+  {
+    name:"Necessaire de pendurar Track and Field",
+    link:"https://www.tf.com.br/necessaire-viagem-minerionico/p",
+    imgSrc:"https://trackfield.vtexassets.com/arquivos/ids/471684-1200-1677?v=638996051337570000&width=1200&height=1677&aspect=true",
+    tag:"Viagem",
+    website:"Amazon"
+  },
 ]
