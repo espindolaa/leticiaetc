@@ -59,7 +59,7 @@ export const products: {name: string; link: string; imgSrc: string; tag: TagTitl
   },
   {
     name:"Kit necessaires Baggu",
-    link:"https://amzn.to/4e9VA4X",
+    link:"https://amzn.to/4ueK4LC",
     imgSrc:"https://m.media-amazon.com/images/I/71khUCwVq6L._AC_SL1500_.jpg",
     tag:"Bolsas",
     website:"Amazon"
