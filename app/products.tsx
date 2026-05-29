@@ -190,4 +190,11 @@ export const products: {name: string; link: string; imgSrc: string; tag: TagTitl
     tag:"Viagem",
     website:"Amazon"
   },
+  {
+    name:"Escova elétrica Sonicare One",
+    link:"https://a.co/d/0e8rwq6j",
+    imgSrc:"https://m.media-amazon.com/images/I/61OnBNYhpBS._AC_SL1500_.jpg",
+    tag:"Viagem",
+    website:"Amazon internacional"
+  },
 ]
