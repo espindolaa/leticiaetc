@@ -197,4 +197,18 @@ export const products: {name: string; link: string; imgSrc: string; tag: TagTitl
     tag:"Viagem",
     website:"Amazon internacional"
   },
+  {
+    name:"Escova elétrica Sonicare One",
+    link:"https://amzn.to/4ahvYla",
+    imgSrc:"https://m.media-amazon.com/images/I/51FKeocCBiL._AC_SL1500_.jpg",
+    tag:"Viagem",
+    website:"Amazon"
+  },
+  {
+    name:"Mini kit Bum Bum Jet Sol de Janeiro",
+    link:"https://www.sephora.com.br/ki-sol-de-janeiro-bum-bum-jet-set-11220134-11220134.html",
+    imgSrc:"https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dwcc13bf0f/images/Color%20BR/SDJ/Bum%20Bum%20Jet%20Set/810912030534%20-%201_1500px.jpg?sw=1200&sh=1200&sm=fit",
+    tag:"Viagem",
+    website:"Sephora"
+  },
 ]
