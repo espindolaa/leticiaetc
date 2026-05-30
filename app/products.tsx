@@ -198,7 +198,7 @@ export const products: {name: string; link: string; imgSrc: string; tag: TagTitl
     website:"Amazon internacional"
   },
   {
-    name:"Escova elétrica Sonicare One",
+    name:"Adaptador de fone de ouvido pra avião",
     link:"https://amzn.to/4ahvYla",
     imgSrc:"https://m.media-amazon.com/images/I/51FKeocCBiL._AC_SL1500_.jpg",
     tag:"Viagem",
