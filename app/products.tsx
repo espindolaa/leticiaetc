@@ -141,13 +141,13 @@ export const products: {name: string; link: string; imgSrc: string; tag: TagTitl
     tag:"Tech",
     website:"Amazon"
   },
-  {
-    name:"Pin Snoopy Icebrg",
-    link:"https://www.icebrg.com.br/loja/busca.php?loja=731014&palavra_busca=snoopy",
-    imgSrc:"https://images.tcdn.com.br/img/img_prod/731014/pin_icebrg_astronauta_snoopy_1_20250902162535_d3db9acc1ce4.jpg",
-    tag:"Acessórios",
-    website:"Icebrg"
-  },
+  //{
+  //  name:"Pin Snoopy Icebrg",
+  //  link:"https://www.icebrg.com.br/loja/busca.php?loja=731014&palavra_busca=snoopy",
+  //  imgSrc:"https://images.tcdn.com.br/img/img_prod/731014/pin_icebrg_astronauta_snoopy_1_20250902162535_d3db9acc1ce4.jpg",
+  //  tag:"Acessórios",
+  //  website:"Icebrg"
+  //},
   {
     name:"Óculos de sol Zaya RayBan",
     link:"https://amzn.to/3Q3tEHG",
